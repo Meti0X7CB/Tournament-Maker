@@ -1,0 +1,17 @@
+!SESSION 2015-12-06 02:08:20.678 -----------------------------------------------
+eclipse.buildId=4.5.0.I20150603-2000
+java.version=1.8.0_60
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_CA
+Framework arguments:  -product org.eclipse.epp.package.java.product C:\Users\Owner\Dropbox\Project\Taimoor\TournamentMaker\app\src\main\java\com\evilgenious\tournamentmaker\ListOfTeams.java
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product C:\Users\Owner\Dropbox\Project\Taimoor\TournamentMaker\app\src\main\java\com\evilgenious\tournamentmaker\ListOfTeams.java
+
+!ENTRY org.eclipse.egit.ui 2 0 2015-12-06 02:09:18.980
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Owner'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.core.jobs 2 2 2015-12-06 02:09:36.412
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: org.eclipse.epp.internal.logging.aeri.ui.log.CheckServerAvailabilityJob
